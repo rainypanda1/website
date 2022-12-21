@@ -56,8 +56,8 @@ plugins:
 
 author:
   name   : "cloudpanda"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I do some stuff sometimes."
+  avatar : "/assets/images/pikachu-profile.png"
+  bio    : "I do some stuff sometimes, and stuff breaks, coincidentally"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -68,6 +68,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rainypanda1"
+    - label: "Codeberg"
+      url: "https://codeberg.org/RainyPanda"
 
 footer:
   links:
@@ -80,6 +82,8 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rainypanda1"
+    - label: "Codeberg"
+      url: "https://codeberg.org/RainyPanda"
 
 defaults:
   # _posts
