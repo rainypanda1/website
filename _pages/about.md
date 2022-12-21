@@ -3,6 +3,17 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hello! Welcome to my website. I made this website because I like websites and computers in general, and wanted to try out Jekyll. 
+This is a website made for fun, and doesn't really serve a purpose but I might add things to it.
+<br><br>
+This website uses [Jekyll](https://jekyllrb.com/) with the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme. It is hosted on [github pages](pages.github.io) and uses [utterance](https://github.com/utterance) for its commenting system. It's a place I'll probably use to test various Jekyll plugins. I'm mainly going to store projects at [codeberg.org](https://codeberg.org/RainyPanda) but their pages don't build the same way, making it difficult to host a website using Jekyll. I decided that out of all the options, GitHub was the best for this website.
+<br><br>
+This website could contain things like:
+* Origami instructions
+* Other projects
+* Recipes?
+* Photos
+* Random instruction things that I find helpful
+  * For stuff like git commands that I tend to always forget
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Basically, websites are fun and I want an excuse to have and update one.
