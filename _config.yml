@@ -16,7 +16,7 @@
 title: cloudpanda
 email: cloudpanda1@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
-minimal_mistakes_skin: sunrise
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
@@ -59,28 +59,25 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "#"
+    - label: "Mastodon"
+      icon: "fa-brands fa-mastodon"
+      url: "https://mstdn.social/@kudzu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/rainypanda1"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "#"
+    - label: "Mastodon"
+      icon: "fa-brands fa-mastodon"
+      url: "https://mstdn.social/@kudzu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/rainypanda1"
 
 defaults:
   # _posts
@@ -89,10 +86,10 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
       related: true
   # _pages
   - scope:
