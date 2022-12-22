@@ -1,0 +1,33 @@
+---
+title: "Basic Git"
+categories:
+  - Blog
+tags:
+  - Software
+  - CLI
+---
+
+Since I frquently forget git commands, and typing `git help` is so difficult (joking), I decided to write this as one of the firsts posts of this website. This is intended for Windows, and while I assume it is fairly similar on Mac and Linux, ¯\\_(ツ)_/¯
+<br><br>
+
+### Initiate new Project
+`cd <project>` Navigate to new project directory.<br>
+`git init` Initialize new local git repo.<br><br>
+
+### Staging and Commiting
+`git add <file name | .>` Add files to be committed.<br>
+`git commit -m "<commit message>"` Commit files to the repo.<br><br>
+
+### Branches
+`git branch <branch name>` Create a new branch locally.<br>
+`git checkout <branch name>` Switch to created branch.<br><br>
+
+`git checkout main` Return to main branch.<br>
+`git merge <branch name>` Merge the branch with the main branch.<br><br>
+
+### Remote Repo
+`git remote add origin <repository url>` Add a URL to the remote repo.<br>
+`git push -u origin main` Push to the remote repo.<br>
+`git pull origin main` Pull the code from the remote repo.<br><br>
+
+And of course there are many, many, more but these are the ones I use and forget most often. And this website is made with the assumption that no one else will read it (hello btw) so... I'm not going to list them all. Also that's why `git help` exists. I'm not git 😠 
