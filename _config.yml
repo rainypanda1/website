@@ -16,7 +16,7 @@
 title: cloudpanda
 email: cloudpanda1@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: default
 search: true
 
 repository: rainypanda1/website
