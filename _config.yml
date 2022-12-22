@@ -100,6 +100,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
+      show_date: true
       layout: single
       author_profile: true
       
