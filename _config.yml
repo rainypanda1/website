@@ -59,33 +59,27 @@ author:
   avatar : "/assets/images/pikachu-profile.png"
   bio    : "I do some stuff sometimes, and stuff breaks, coincidentally of course."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "#"
-    - label: "Codeberg"
-      icon: "fas fa-fw fa-mountain"
-      url: "https://codeberg.org/RainyPanda"      
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://mstdn.social/@kudzu"
+      url: "https://mstdn.social/@kudzu"  
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rainypanda1"
-
-footer:
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "#"
     - label: "Codeberg"
       icon: "fas fa-fw fa-mountain"
       url: "https://codeberg.org/RainyPanda"      
+
+footer:
+  links:
     - label: "Mastodon"
       url: "https://mstdn.social/@kudzu"   
-      icon: "fab fa-fw fa-mastodon"   
+      icon: "fab fa-fw fa-mastodon"  
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/rainypanda1"    
+      url: "https://github.com/rainypanda1"        
+    - label: "Codeberg"
+      icon: "fas fa-fw fa-mountain"
+      url: "https://codeberg.org/RainyPanda"          
 
 defaults:
   # _posts
