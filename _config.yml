@@ -57,33 +57,33 @@ plugins:
 author:
   name   : "cloudpanda"
   avatar : "/assets/images/pikachu-profile.png"
-  bio    : "I do some stuff sometimes, and stuff breaks, coincidentally"
+  bio    : "I do some stuff sometimes, and stuff breaks, coincidentally of course."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "#"
-    - label: "Mastodon"
-      icon: "fa-mastodon"
-      url: "https://mstdn.social/@kudzu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rainypanda1"
     - label: "Codeberg"
       url: "https://codeberg.org/RainyPanda"
+    - label: "Mastodon"
+      url: "https://mstdn.social/@kudzu"
+      icon: "fa-brands fa-mastodon fa-fw"
 
 footer:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "#"
-    - label: "Mastodon"
-      icon: "fa-mastodon"
-      url: "https://mstdn.social/@kudzu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rainypanda1"
     - label: "Codeberg"
       url: "https://codeberg.org/RainyPanda"
+    - label: "Mastodon"
+      icon: "fa-brands fa-mastodon fa-fw"
+      url: "https://mstdn.social/@kudzu"     
 
 defaults:
   # _posts
