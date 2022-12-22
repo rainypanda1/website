@@ -1,7 +1,7 @@
 ---
 title: "Basic Git"
 categories:
-  - Blog
+  - Posts
 tags:
   - Software
   - CLI
