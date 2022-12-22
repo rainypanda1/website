@@ -5,6 +5,8 @@ categories:
   - Posts
 tags:
   - Jekyll
+header:
+  teaser: /assets/images/jekyll.png
 ---
 This page will just contain some Jekyll stuff. <br>
 ```rust
